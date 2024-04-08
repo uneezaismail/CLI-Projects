@@ -1,0 +1,26 @@
+{
+  "name": "eza-todotask-manager",
+  "version": "1.2.0",
+  "description": "A command-line todo list manager designed to help you stay organized and focused. Easily add, view, mark complete, or delete tasks with simple commands effortlessly.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"todo\"",
+    "\"eza\"",
+    "\"list\"",
+    "\"task\""
+  ],
+  "author": "\"Uneeza Ismail\"",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.2"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
